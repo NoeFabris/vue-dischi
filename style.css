@@ -1,0 +1,8 @@
+.album{
+    width: calc(100% / 3);
+    text-align: center;
+}
+.album img{
+    object-fit: cover;
+    width: 100%;
+}
